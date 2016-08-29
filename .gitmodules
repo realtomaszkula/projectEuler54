@@ -1,0 +1,3 @@
+[submodule "ts/BS"]
+	path = ts/BS
+	url = git@github.com:zetsnotdead/BSSensitive.git
